@@ -5,6 +5,8 @@ terraform {
   }
 }
 
+# Details to be referenced during configuration for Remote State Storage + State Locking
+/*
 terraform {
   backend "s3" {
     bucket         = "shopsphere-tfstate-staging"
@@ -15,3 +17,4 @@ terraform {
     profile        = "staging-sso"
   }
 }
+*/

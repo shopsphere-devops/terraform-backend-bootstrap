@@ -2,6 +2,5 @@
 *.tfstate
 *.tfstate.backup
 .crash
-*.tfvars
 override.tf
 override.tf.json
